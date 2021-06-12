@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    background-image:url(images/tribal.jpg);
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: blanchedalmond;
+    font-style: italic;
+}
+.meme{
+    font-weight: bolder;
+    color: white;
+    font-size: x-large;
+}
+.doggy{
+    font-size: larger;
+    color:whitesmoke;
+}
+span{
+    color:gold;
+}
+.scan{
+    text-decoration: double underline;
+
+}
+.mehe{
+    color: rgb(219, 70, 70)
+
+}
+.sub{
+    font-size: x-large;
+    color: whitesmoke;
+    font-family: serif;
+}
+.card{
+    background-color: rgb(99, 99, 99);
+    font-size: x larger;
+}
+.paragraphs{
+    font-size: larger;
+    color: ivory;
+    font-style: oblique
+}
+.enter{
+    text-align: center;
+}
